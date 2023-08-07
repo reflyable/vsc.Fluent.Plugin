@@ -1,0 +1,11 @@
+{
+  "IsEnabled": true,
+  "InstalledVersion": "1.0.0.0",
+  "Name": "VSCode workspaces",
+  "DisplayName": "VSCode workspaces",
+  "Description": "VSCode workspaces",
+  "PublisherName": "SHUAI Apps",
+  "Version": "1.0.0.0",
+  "URL": "https://github.com",
+  "IconGlyph": "\uE8EF"
+}

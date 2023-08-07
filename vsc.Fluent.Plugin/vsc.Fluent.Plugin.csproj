@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+</PropertyGroup>
+
+
+
+<ItemGroup>
+    <PackageReference Include="Blast.API" Version="0.9.91.9995-beta">
+        <Private>false</Private>
+        <ExcludeAssets>runtime</ExcludeAssets>
+    </PackageReference>
+	<PackageReference Include="JetBrains.Annotations" Version="2022.3.1" />
+	<PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+	<PackageReference Include="Microsoft.Data.Sqlite" Version="7.0.1" />
+</ItemGroup>
+</Project>
